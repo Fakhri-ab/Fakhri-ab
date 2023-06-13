@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abessi Fakhreddine</h1>
+<h1 align="center">Hi 👋, I'm Abessi Fakhri</h1>
 <h3 align="center">A Fullstack Web Developer From Tunisia</h3>
 
 <h3 align="left">Connect with me:</h3>
